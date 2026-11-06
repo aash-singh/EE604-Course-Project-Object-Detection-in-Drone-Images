@@ -1,7 +1,7 @@
 # Visual Object Search in Drone Images
 
 Training-free, query-by-example object search in drone images using frozen DINOv2 patch features.
-Course project for EE604 (IIT Kanpur).
+Course project for EE604 Image Processing(IIT Kanpur).
 
 **Author:** Ashish Pratap Singh (Roll No. 261010070), ashishps26@iitk.ac.in
 
